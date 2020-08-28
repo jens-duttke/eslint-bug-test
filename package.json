@@ -1,0 +1,13 @@
+{
+  "name": "eslint-bug-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^7.7.0"
+  }
+}
